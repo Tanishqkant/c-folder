@@ -1,0 +1,14 @@
+C:\Users\TANISHQ\OneDrive\Desktop\C# game\BlockGame\bin\Debug\net8.0-windows\BlockGame.exe
+C:\Users\TANISHQ\OneDrive\Desktop\C# game\BlockGame\bin\Debug\net8.0-windows\BlockGame.deps.json
+C:\Users\TANISHQ\OneDrive\Desktop\C# game\BlockGame\bin\Debug\net8.0-windows\BlockGame.runtimeconfig.json
+C:\Users\TANISHQ\OneDrive\Desktop\C# game\BlockGame\bin\Debug\net8.0-windows\BlockGame.dll
+C:\Users\TANISHQ\OneDrive\Desktop\C# game\BlockGame\bin\Debug\net8.0-windows\BlockGame.pdb
+C:\Users\TANISHQ\OneDrive\Desktop\C# game\BlockGame\obj\Debug\net8.0-windows\BlockGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TANISHQ\OneDrive\Desktop\C# game\BlockGame\obj\Debug\net8.0-windows\BlockGame.AssemblyInfoInputs.cache
+C:\Users\TANISHQ\OneDrive\Desktop\C# game\BlockGame\obj\Debug\net8.0-windows\BlockGame.AssemblyInfo.cs
+C:\Users\TANISHQ\OneDrive\Desktop\C# game\BlockGame\obj\Debug\net8.0-windows\BlockGame.csproj.CoreCompileInputs.cache
+C:\Users\TANISHQ\OneDrive\Desktop\C# game\BlockGame\obj\Debug\net8.0-windows\BlockGame.dll
+C:\Users\TANISHQ\OneDrive\Desktop\C# game\BlockGame\obj\Debug\net8.0-windows\refint\BlockGame.dll
+C:\Users\TANISHQ\OneDrive\Desktop\C# game\BlockGame\obj\Debug\net8.0-windows\BlockGame.pdb
+C:\Users\TANISHQ\OneDrive\Desktop\C# game\BlockGame\obj\Debug\net8.0-windows\BlockGame.genruntimeconfig.cache
+C:\Users\TANISHQ\OneDrive\Desktop\C# game\BlockGame\obj\Debug\net8.0-windows\ref\BlockGame.dll
